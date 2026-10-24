@@ -1,0 +1,585 @@
+C	¿Qué hortaliza naranja se vacía y se ilumina por dentro en Halloween?	CA[L]A[B]A[Z]A
+C	¿Cómo se llama el conde vampiro creado por Bram Stoker?	[D]RÁ[C]U[L]A
+C	¿Qué mamífero volador duerme colgado cabeza abajo?	MU[R]CIÉ[L]A[G]O
+C	¿En qué objeto vuelan tradicionalmente las brujas?	E[S]CO[B]A
+C	¿Qué figura vendada sale de los sarcófagos egipcios?	[M]O[M]IA
+C	¿En qué país nació la fiesta celta de Samhain, origen de Halloween?	I[R]LA[N]DA
+C	¿Qué dicen los niños en Halloween al llamar a las puertas?	TRU[C]O O [T]RA[T]O
+C	¿Qué arácnido teje telarañas?	A[R]A[Ñ]A
+C	¿Qué fiesta mexicana honra a los difuntos a principios de noviembre?	DÍA DE [M]UE[R]TOS
+C	¿Qué apellido tiene el doctor que crea un monstruo en la novela de Mary Shelley?	FRAN[K]EN[S]TEI[N]
+C	¿Qué ser se transforma en lobo con la luna llena?	HOM[B]RE [L]O[B]O
+C	¿Qué espíritu atraviesa paredes cubierto con una sábana?	FA[N]TAS[M]A
+C	¿En qué mes se celebra Halloween?	O[C]TU[B]RE
+C	¿Qué hueso forma la cabeza de un esqueleto?	C[R]Á[N]EO
+C	¿Qué condimento ahuyenta a los vampiros según la leyenda?	A[J]O
+C	¿En qué recipiente prepara la bruja sus pócimas?	CA[L]DE[R]O
+C	¿Qué lugar está lleno de tumbas y lápidas?	CE[M]EN[T]E[R]IO
+C	¿De qué color es el cielo en un día despejado?	A[Z]U[L]
+C	¿Cuántas patas tiene una araña?	O[C]H[O]
+C	¿Qué fruta alargada y amarilla les encanta a los monos?	PLÁ[T]A[N]O
+C	¿Qué animal es el rey de la selva?	LE[Ó]N
+C	¿Qué astro nos da luz y calor durante el día?	[S]O[L]
+C	¿Con qué parte de la cara olemos?	[N]A[R]IZ
+C	¿Qué animal tiene trompa y orejas muy grandes?	E[L]E[F]ANTE
+C	¿Cómo se llama la casita que hacen los pájaros?	[N]I[D]O
+C	¿Qué estación del año llega después del invierno?	PRI[M]A[V]ERA
+C	¿Qué lleva el rey en la cabeza?	CO[R]O[N]A
+C	¿Qué número va después del nueve?	[D]I[E]Z
+C	¿Qué cae del cielo cuando llueve?	A[G]UA
+C	¿Qué aparece en el cielo con muchos colores después de llover?	AR[C]OÍ[R]IS
+C	¿Cuántos días tiene una semana?	SI[E]T[E]
+C	¿Qué animal salta y lleva a su cría en una bolsa?	CAN[G]U[R]O
+C	¿Qué vehículo largo va por las vías?	T[R]E[N]
+C	¿Qué insecto fabrica la miel?	A[B]E[J]A
+C	¿Qué nos ponemos en los pies antes de los zapatos?	CAL[C]E[T]INES
+C	¿Qué animal lleva caparazón y camina muy despacio?	TO[R]TU[G]A
+C	¿Con qué se escribe en la pizarra del cole?	TI[Z]A
+C	¿Cómo se llama el planeta en el que vivimos?	TI[E]R[R]A
+C	¿Qué fruta roja tiene las semillas por fuera?	FRE[S]A
+C	¿Qué animal ladra y es el mejor amigo de las personas?	PE[R]R[O]
+C	¿Qué princesa de cuento perdió un zapato de cristal?	CE[N]I[C]IENTA
+C	¿Qué hortaliza naranja les encanta a los conejos?	ZA[N]A[H]ORIA
+C	¿De qué color es la hierba?	V[E]R[D]E
+C	¿Cuál es el animal más grande del mar?	BA[L]LE[N]A
+C	¿Qué animal tiene el cuello más largo?	JI[R]A[F]A
+C	¿Qué día de diciembre es Nochebuena?	VEINTI[C]UA[T]RO
+C	¿Qué dulce de almendra y miel es típico de la Navidad española?	TU[R]RÓ[N]
+C	¿Cómo se llama la misa de medianoche de Nochebuena?	MISA DEL [G]A[L]LO
+C	¿Qué canciones típicas se cantan en Navidad?	VI[L]LAN[C]ICOS
+C	¿Qué maqueta con figuritas recrea el nacimiento de Jesús?	BE[L]É[N]
+C	¿Qué guio a los Reyes Magos hasta el portal?	ES[T]RE[L]LA
+C	¿Qué dulce navideño que se deshace en la boca se hace con manteca?	POL[V]O[R]ÓN
+C	¿Qué animal acompaña al buey en el portal?	[M]U[L]A
+C	¿Qué instrumento con chapitas se agita en los villancicos?	PAN[D]E[R]ETA
+C	¿Qué marisco rojo suele haber en la cena de Nochebuena?	LAN[G]OS[T]INOS
+C	¿Qué instrumento de barro con un palo suena en los villancicos?	ZA[M][B]O[M]BA
+C	¿Qué dirige el Rey a los españoles cada 24 de diciembre por la noche?	DIS[C]UR[S]O
+C	¿Qué planta de hojas rojas adorna las casas en Navidad?	FLOR DE [P]AS[C]UA
+C	¿Qué carbonero vasco trae regalos en Nochebuena?	OLEN[T]Z[E]RO
+C	¿Qué vino espumoso se usa para brindar en España?	[C]A[V]A
+C	¿Qué personaje vestido de rojo reparte regalos el 25 de diciembre?	PAPÁ [N]O[E]L
+C	¿Qué animales tiran del trineo de Papá Noel?	[R]E[N]OS
+C	¿Cómo se llama el reno de la nariz roja?	[R]O[D]OLFO
+C	¿Qué árbol se decora en Navidad?	A[B]E[T]O
+C	¿Qué tira brillante de colores adorna el árbol de Navidad?	E[S]P[U]MILLÓN
+C	¿Qué día de diciembre es Navidad?	VEIN[T]IC[I]NCO
+C	¿Cuántos son los Reyes Magos?	T[R]E[S]
+C	¿Qué Rey Mago lleva la barba blanca?	[M]EL[C]HOR
+C	¿Qué Rey Mago es el más joven y de piel oscura?	BAL[T]A[S]AR
+C	¿Qué dulce redondo con fruta escarchada se come el 6 de enero?	RO[S]CÓN
+C	¿Qué prenda se cuelga en la chimenea para recibir regalos?	[C]A[L]CETÍN
+C	¿Qué figura de nieve tiene nariz de zanahoria?	MU[Ñ]ECO DE NIE[V]E
+C	¿Qué sorteo se celebra en España el 22 de diciembre?	LO[T]E[R]ÍA
+C	¿Cómo se llama el primer premio de ese sorteo?	[G]OR[D]O
+C	¿Qué ave grande se asa al horno en muchas cenas navideñas?	PA[V]O
+C	¿Con qué se envuelven los regalos?	PA[P][E]L
+C	¿Qué nos ponemos en la cara para no ser reconocidos?	MÁS[C]A[R]A
+C	¿Qué ciudad andaluza es famosa por sus chirigotas?	CÁ[D]I[Z]
+C	¿Qué agrupaciones cantan coplas de humor en el Carnaval de Cádiz?	CHI[R]I[G]OTAS
+C	¿En qué ciudad brasileña desfilan las escuelas de samba?	RÍO DE JA[N]EI[R]O
+C	¿Qué baile brasileño protagoniza ese carnaval?	SA[M][B]A
+C	¿Qué ciudad italiana es famosa por sus máscaras y góndolas?	VE[N]E[C]IA
+C	¿Qué ceremonia con un pez pone fin al Carnaval?	EN[T]IE[R]RO DE LA SARDINA
+C	¿Qué miércoles marca el final del Carnaval?	MIÉRCOLES DE [C]E[N]IZA
+C	¿Qué papelitos de colores se lanzan en las fiestas?	CON[F]E[T]I
+C	¿Qué tiras de papel enrolladas se lanzan en las fiestas?	SER[P]EN[T]INAS
+C	¿En qué isla está Santa Cruz, con uno de los carnavales más famosos?	TENE[R]I[F]E
+C	¿Qué vehículos decorados desfilan en la cabalgata?	CA[R]RO[Z]AS
+C	¿Qué lleva un pirata en un ojo?	PA[R]C[H]E
+C	¿Qué periodo de cuarenta días empieza tras el Carnaval?	CUA[R]E[S]MA
+C	¿Qué personaje italiano viste un traje de rombos de colores?	AR[L]E[Q]UÍN
+C	¿Cuántas uvas se comen en Nochevieja?	[D]O[C]E
+C	¿Desde qué plaza de Madrid se retransmiten las campanadas?	PUERTA DEL [S]O[L]
+C	¿Qué día de diciembre es Nochevieja?	[T]REI[N][T]A Y UNO
+C	¿Qué prenda roja dice la tradición que hay que estrenar?	RO[P]A I[N]TE[R]IOR
+C	¿Qué espectáculo de luces ilumina el cielo a medianoche?	FUE[G]OS ARTI[F]ICIALES
+C	¿Qué vino espumoso francés se usa para brindar?	C[H]AM[P]ÁN
+C	¿Con qué mes empieza el año?	E[N]E[R]O
+C	¿Qué hacemos al chocar las copas para celebrar?	BRI[N][D]IS
+C	¿Cómo se llaman las metas que nos marcamos para el año nuevo?	PRO[P]Ó[S]ITOS
+C	¿Qué suena doce veces a medianoche?	CAM[P]A[N]AS
+C	¿Cómo se llaman los toques que suenan antes de las campanadas?	CUAR[T]O[S]
+C	¿En qué ciudad baja una gran bola de luces en Times Square?	NUE[V]A [Y]ORK
+C	¿Qué se celebra el 1 de enero?	AÑO [N]U[E]VO
+C	¿Qué aparato marca la hora en la Puerta del Sol?	RE[L]O[J]
+C	¿Qué astro nos broncea en la playa?	[S]O[L]
+C	¿Qué crema protege la piel del sol?	[P]RO[T]ECTOR SOLAR
+C	¿Qué dulce frío se come en cucurucho?	[H]E[L]ADO
+C	¿Qué sopa fría andaluza de tomate se toma en verano?	GAZ[P]A[C]HO
+C	¿En qué mes empieza el verano?	JU[N]I[O]
+C	¿Qué insecto pica por las noches de verano?	MOS[Q]UI[T]O
+C	¿Qué prenda usamos para bañarnos?	BA[Ñ]A[D]OR
+C	¿Qué construimos con arena en la playa?	CAS[T]I[L]LO
+C	¿Qué objeto nos da sombra en la playa?	SOM[B]RI[L]LA
+C	¿Qué animal marino transparente puede picar en la playa?	[M]E[D]USA
+C	¿Qué deporte se practica sobre las olas con una tabla?	SUR[F]
+C	¿Qué bebida de vino con fruta es típica del verano?	SAN[G]R[Í]A
+C	¿Cómo se llama el descanso de verano de los estudiantes?	VA[C]A[C][I]ONES
+C	¿Qué fruta grande es verde por fuera y roja por dentro?	SAN[D]Í[A]
+C	¿Qué bebida se hace con limón, agua y azúcar?	LI[M]O[N]ADA
+C	¿Qué noche de junio se celebra con hogueras?	SAN [J]U[A]N
+C	¿Qué río pasa por Sevilla?	GU[A]DA[L]QUI[V]IR
+C	¿Cuál es el planeta más grande del sistema solar?	J[Ú]PI[T]ER
+C	¿Qué pintor malagueño pintó el «Guernica»?	PI[C]A[S]SO
+C	¿En qué ciudad está la Sagrada Familia?	BA[R]CE[L]ONA
+C	¿Cómo se llama el hidalgo creado por Miguel de Cervantes?	DON QUI[J]O[T]E
+C	¿Qué gas respiramos para vivir?	O[X]Í[G]ENO
+C	¿Cuál es la capital de Portugal?	LI[S]BO[A]
+C	¿Qué instrumento tiene teclas blancas y negras?	PI[A]N[O]
+C	¿Cuántos jugadores tiene un equipo de fútbol en el campo?	O[N]C[E]
+C	¿Qué animal es conocido como el rey de la selva?	L[E]Ó[N]
+C	¿Qué metal precioso es de color amarillo?	O[R]O
+C	¿En qué continente está Egipto?	Á[F]RI[C]A
+C	¿Cuál es el océano más grande de la Tierra?	PA[C]Í[F]ICO
+C	¿Qué fruta se asocia con Isaac Newton y la gravedad?	MAN[Z]A[N]A
+C	¿Qué científico formuló la teoría de la relatividad?	EI[N]S[T]EIN
+C	¿Cuál es el idioma más hablado de Brasil?	POR[T]U[G]UÉS
+C	¿Cómo se llama la capital de Italia?	R[O]M[A]
+C	¿Qué ave es símbolo de la paz?	PA[L]O[M]A
+C	¿Qué órgano bombea la sangre por el cuerpo?	CO[R]A[Z]ÓN
+C	¿En qué deporte se usa una canasta?	BA[L]ON[C]ESTO
+C	¿Qué estación del año empieza en diciembre en España?	IN[V]IE[R]NO
+C	¿Cómo se llama el satélite natural de la Tierra?	L[U]N[A]
+C	¿Qué compositor alemán se quedó sordo y compuso la Novena Sinfonía?	BEE[T]HO[V]EN
+C	¿Qué dulce navideño se hace con almendras y miel en Jijona?	TU[R]R[Ó]N
+C	¿Cuál es la montaña más alta del mundo?	E[V]ER[E]ST
+C	¿Qué ciudad española es famosa por sus Fallas?	VA[L]EN[C]IA
+C	¿Qué ciudad celebra los Sanfermines?	PAM[P]LO[N]A
+C	¿Qué país tiene forma de bota?	I[T]A[L]IA
+C	¿Cuál es el animal terrestre más rápido?	GUE[P]AR[D]O
+C	¿Qué elemento químico tiene el símbolo «Fe»?	HIE[R]R[O]
+C	¿Cómo se llama el arte de escribir con letra bonita?	CA[L]I[G]RAFÍA
+C	¿Qué planeta es conocido como el planeta rojo?	M[A]R[T]E
+C	¿Qué sopa fría andaluza se hace con tomate?	GA[Z]PA[C]HO
+C	¿Qué famoso detective vivía en Baker Street?	SHER[L]O[C]K
+C	¿En qué país están las pirámides de Guiza?	E[G]I[P]TO
+C	¿Qué tenista español ha ganado catorce veces Roland Garros?	NA[D]A[L]
+C	¿Qué museo madrileño guarda «Las meninas»?	PR[A]D[O]
+C	¿Quién pintó «Las meninas»?	VE[L]ÁZ[Q]UEZ
+C	¿Cuántos lados tiene un hexágono?	S[E]I[S]
+C	¿Qué país regaló la Estatua de la Libertad a Estados Unidos?	F[R]AN[C]IA
+C	¿Qué río es el más largo de la península ibérica?	TA[J]O
+C	¿Cuál es la capital de Japón?	TO[K]I[O]
+C	¿Qué mamífero marino es el más grande del mundo?	BA[L]LE[N]A AZUL
+C	¿Qué se celebra el 6 de enero en España?	RE[Y]E[S]
+C	¿Qué escritor colombiano escribió «Cien años de soledad»?	GAR[C]ÍA MÁR[Q]UEZ
+C	¿Qué isla canaria tiene el Teide?	TE[N]E[R]IFE
+C	¿Cuál es la moneda del Reino Unido?	LI[B]RA
+C	¿Qué superhéroe es Peter Parker?	SPI[D]E[R]MAN
+C	¿Qué fenómeno natural mide la escala de Richter?	TE[R]RE[M]OTO
+C	¿Cómo se llama la cría de la vaca?	TER[N]E[R]O
+C	¿Qué instrumento musical tocaba Paco de Lucía?	GUI[T]A[R]RA
+C	¿Qué país tiene la mayor población del mundo desde 2023?	IN[D]I[A]
+C	¿Qué ciudad es la capital de Francia?	PA[R]Í[S]
+C	¿En qué ciudad está el Coliseo?	R[O]M[A]
+C	¿Qué arquitecto diseñó el parque Güell?	GA[U]D[Í]
+C	¿Qué fruto seco es la base del mazapán?	AL[M]EN[D]RA
+C	¿Qué hueso protege el cerebro?	CRÁ[N]E[O]
+C	¿Qué animal pone huevos y da leche, el famoso mamífero raro de Australia?	OR[N]I[T]ORRINCO
+C	¿Cuál es el desierto más grande de África?	SÁ[H]A[R]A
+C	¿Qué color se obtiene al mezclar azul y amarillo?	V[E]R[D]E
+C	¿Qué personaje de Disney tiene una nariz que crece al mentir?	PI[N]O[C]HO
+C	¿En qué ciudad nació Mozart?	SAL[Z]BU[R]GO
+C	¿Qué selección ganó el Mundial de fútbol de 2010?	ES[P]A[Ñ]A
+C	¿Qué ciudad española tiene la Alhambra?	GRA[N]A[D]A
+C	¿Qué grupo de música era de Liverpool y cantaba «Yesterday»?	THE BEA[T]L[E]S
+C	¿Qué vitamina nos da el sol?	VI[T]AMI[N]A D
+C	¿Cómo se llama el miedo a las arañas?	ARAC[N]O[F]OBIA
+C	¿Qué ciudad gallega es meta del Camino de Santiago?	SAN[T]IA[G]O
+C	¿Qué figura geométrica tiene tres lados?	TRI[Á]N[G]ULO
+C	¿Cuál es la capital de Argentina?	BUE[N]OS A[I]RES
+C	¿Qué planeta tiene los anillos más famosos?	SA[T]U[R]NO
+C	¿Cómo se llama el idioma oficial de Austria?	A[L]E[M]ÁN
+C	¿Qué escritor inglés escribió «Romeo y Julieta»?	SHA[K]ES[P]EARE
+C	¿Qué cordillera separa España de Francia?	PI[R]I[N]EOS
+C	¿Qué juego de mesa tiene reyes, reinas, alfiles y peones?	A[J]E[D]REZ
+C	¿De qué país es típica la paella?	ES[P]A[Ñ]A
+C	¿Qué ciudad es conocida como la Gran Manzana?	NUE[V]A [Y]ORK
+C	¿Qué animal es Bambi?	CI[E]R[V]O
+C	¿Qué científica polaca ganó dos premios Nobel?	MARIE [C]U[R]IE
+C	¿Qué parte de la planta hace la fotosíntesis principalmente?	HO[J]A[S]
+C	¿Qué deporte practica Carolina Marín?	BÁD[M]IN[T]ON
+C	¿Cuál es el país más grande del mundo?	RU[S]I[A]
+C	¿Qué inventor estadounidense patentó la bombilla?	E[D]I[S]ON
+C	¿Qué ciudad italiana tiene canales y góndolas?	VE[N]E[C]IA
+C	¿Qué piloto asturiano fue dos veces campeón de Fórmula 1?	FERNANDO A[L]O[N]SO
+C	¿Qué ciudad tiene la Torre Eiffel?	PA[R]Í[S]
+C	¿Qué animal tiene trompa y grandes orejas?	E[L]E[F]ANTE
+C	¿Cuál es el mineral más duro?	DIA[M]AN[T]E
+C	¿Qué famoso mago de las películas lleva gafas redondas y una cicatriz?	HARRY [P]O[T]TER
+C	¿Qué comunidad autónoma tiene como capital Mérida?	EX[T]RE[M]ADURA
+C	¿Qué se mide con un termómetro?	TEM[P]ERA[T]URA
+C	¿Qué país tiene canguros en libertad?	AUS[T]RA[L]IA
+C	¿Cómo se llama la ciencia que estudia los seres vivos?	BIO[L]O[G]ÍA
+C	¿Qué cantante de Puerto Rico canta «Despacito» con Daddy Yankee?	LUIS [F]O[N]SI
+C	¿Cuál es el río más caudaloso del mundo?	AMA[Z]O[N]AS
+C	¿Qué pájaro no vuela y vive en la Antártida?	PIN[G]Ü[I]NO
+C	¿Qué tipo de animal es una ballena?	MA[M]Í[F]ERO
+C	¿Qué ciudad es la capital de Alemania?	BER[L]Í[N]
+C	¿Qué famoso barco se hundió en 1912 tras chocar con un iceberg?	TI[T]Á[N]IC
+C	¿Qué legumbre es la base del cocido madrileño?	GAR[B]AN[Z]O
+C	¿Qué número romano es la letra «L»?	CIN[C]UEN[T]A
+C	¿Qué ciudad andaluza tiene la Mezquita?	CÓR[D]O[B]A
+C	¿En qué deporte destaca Lionel Messi?	FÚ[T]B[O]L
+C	¿Qué país tiene como capital Ottawa?	CA[N]A[D]Á
+C	¿Qué fiesta valenciana termina con la cremà?	FA[L]LA[S]
+C	¿Qué villano de Star Wars dice «Yo soy tu padre»?	DARTH [V]A[D]ER
+C	¿Cuál es el hueso más largo del cuerpo humano?	FÉ[M]U[R]
+C	¿Qué país es famoso por los tulipanes y los molinos?	HO[L]AN[D]A
+C	¿Qué alimento producen las vacas y se usa para hacer queso?	L[E]C[H]E
+C	¿Qué escritor creó a Manolito Gafotas?	ELVIRA [L]IN[D]O
+C	¿Qué presentador madrileño ha presentado ¡Ahora caigo! desde 2011?	ARTURO [V]A[L]LS
+E	¿Cuál es el planeta más grande del sistema solar?	Júpiter	Saturno	Neptuno	0
+E	¿Cuál es la última palabra por orden alfabético?	Mesa	Mapa	Mono	2
+E	¿Cuál es la primera palabra por orden alfabético?	Perro	Pato	Pez	1
+E	¿Cuántos lados tiene un hexágono?	5	6	8	1
+E	¿Qué mar baña la costa de Valencia?	Cantábrico	Báltico	Mediterráneo	2
+E	¿En qué país está Machu Picchu?	Perú	Bolivia	México	0
+E	¿Cuál es el símbolo químico del oro?	Ag	Au	Or	1
+E	¿Cuál es el río más largo de la península ibérica?	Ebro	Duero	Tajo	2
+E	¿Quién pintó «Las meninas»?	Velázquez	Goya	Murillo	0
+E	¿Cuántos jugadores de un equipo de baloncesto están en la pista a la vez?	6	5	7	1
+E	¿Cuál es el animal terrestre más rápido?	León	Caballo	Guepardo	2
+E	¿Cuál es la capital de Australia?	Canberra	Sídney	Melbourne	0
+E	¿En qué año llegó Colón a América?	1452	1492	1512	1
+E	¿Cuál es el hueso más largo del cuerpo humano?	Tibia	Húmero	Fémur	2
+E	¿Qué gas absorben las plantas para hacer la fotosíntesis?	Dióxido de carbono	Helio	Nitrógeno	0
+E	¿Quién escribió «Don Quijote de la Mancha»?	Lope de Vega	Cervantes	Quevedo	1
+E	¿Cuál de estos animales es un mamífero?	Tiburón	Atún	Delfín	2
+E	¿Cuántos minutos hay en hora y media?	90	80	100	0
+E	¿Cuál es la capital de Canadá?	Toronto	Ottawa	Montreal	1
+E	¿Qué instrumento tiene normalmente 88 teclas?	Acordeón	Arpa	Piano	2
+E	¿Cuál es la montaña más alta de España?	Teide	Mulhacén	Aneto	0
+E	¿Qué país tiene forma de bota?	Grecia	Italia	Portugal	1
+E	¿Cuánto es 7 × 8?	54	64	56	2
+E	¿Cuál es la moneda de Japón?	Yen	Won	Yuan	0
+E	¿En qué continente está Egipto?	Asia	África	Europa	1
+E	¿Qué color sale al mezclar azul y amarillo?	Morado	Naranja	Verde	2
+E	¿Cuántas patas tiene una araña?	8	6	10	0
+E	¿Qué planeta es conocido como el planeta rojo?	Venus	Marte	Mercurio	1
+E	¿Cuál es la última palabra por orden alfabético?	Sol	Sal	Sur	2
+E	¿Cuál de estas palabras es aguda?	Canción	Árbol	Lápiz	0
+E	¿Cuál de estas palabras es esdrújula?	Camión	Música	Fácil	1
+E	¿Qué ciudad es conocida como la Ciudad Condal?	Sevilla	Bilbao	Barcelona	2
+E	¿En qué ciudad está la Alhambra?	Granada	Córdoba	Toledo	0
+E	¿Qué metal es líquido a temperatura ambiente?	Plomo	Mercurio	Estaño	1
+E	¿Cuántos años tiene un siglo?	10	1000	100	2
+E	¿Qué científico formuló la teoría de la relatividad?	Einstein	Newton	Darwin	0
+E	¿Cuál es el océano más grande?	Atlántico	Pacífico	Índico	1
+E	¿Qué selección ganó el Mundial de fútbol de 2010?	Países Bajos	Alemania	España	2
+E	¿Cuántos aros tiene la bandera olímpica?	5	6	4	0
+E	¿Qué órgano bombea la sangre por el cuerpo?	Hígado	Corazón	Pulmón	1
+E	¿Cuál es la capital de Portugal?	Oporto	Coímbra	Lisboa	2
+E	¿Cuál de estos animales es un anfibio?	Rana	Lagarto	Tortuga	0
+E	¿Qué número romano vale 50?	C	L	D	1
+E	¿Quién compuso «Las cuatro estaciones»?	Mozart	Bach	Vivaldi	2
+E	¿Cuántos días tiene un año bisiesto?	366	365	364	0
+E	¿Cuál es la isla más grande de las Baleares?	Menorca	Mallorca	Ibiza	1
+E	¿Cuál es el país más grande del mundo?	Canadá	China	Rusia	2
+E	¿En qué estado está el agua cuando es hielo?	Sólido	Líquido	Gaseoso	0
+E	¿Cuál es la primera palabra por orden alfabético?	Casa	Cama	Cosa	1
+E	¿Qué escritor creó a Sherlock Holmes?	Agatha Christie	Julio Verne	Conan Doyle	2
+E	¿En qué país está la Torre Eiffel?	Francia	Bélgica	Suiza	0
+E	¿Qué vitamina fabrica la piel con la luz del sol?	C	D	B12	1
+E	¿Cuántos centímetros tiene un metro?	10	1000	100	2
+E	¿Qué superhéroe es Peter Parker?	Spider-Man	Batman	Superman	0
+E	¿Cuántas comunidades autónomas tiene España?	15	17	19	1
+E	¿Qué planeta tiene los anillos más visibles?	Urano	Júpiter	Saturno	2
+E	¿En qué deporte se usa un «tee»?	Golf	Tenis	Voleibol	0
+E	¿Qué lengua tiene más hablantes nativos en el mundo?	Español	Chino mandarín	Inglés	1
+E	¿Cuál es el desierto cálido más grande del mundo?	Gobi	Kalahari	Sahara	2
+E	¿Cuál de estos números es primo?	13	15	21	0
+E	¿Qué pintor se cortó parte de una oreja?	Picasso	Van Gogh	Dalí	1
+E	¿En qué ciudad está el Museo del Prado?	Barcelona	Valencia	Madrid	2
+E	¿Cuál es la última palabra por orden alfabético?	Luna	Lima	Lobo	0
+E	¿Cuántos colores tiene el arcoíris según la tradición?	6	7	9	1
+E	¿Qué animal es el símbolo de la paz?	Águila	Búho	Paloma	2
+S	¿Es el Teide el pico más alto de España?	1
+S	¿Es Madrid la capital de Portugal?	0
+S	¿Tiene una araña ocho patas?	1
+S	¿Es la ballena azul un pez?	0
+S	¿Hierve el agua a 100 grados a nivel del mar?	1
+S	¿Es Júpiter el planeta más grande del sistema solar?	1
+S	¿Está el desierto del Sáhara en América del Sur?	0
+S	¿Tiene un año bisiesto 366 días?	1
+S	¿Escribió Cervantes «Don Quijote de la Mancha»?	1
+S	¿Pintó Velázquez «Las meninas»?	1
+S	¿Es el tomate originario de América?	1
+S	¿Es el pingüino un ave?	1
+S	¿Pueden volar los avestruces?	0
+S	¿Es Lisboa la capital de Portugal?	1
+S	¿Tiene un tablero de ajedrez 64 casillas?	1
+S	¿Es el Ebro el río más largo de la península ibérica?	0
+S	¿Es la Luna un planeta?	0
+S	¿Tiene un hexágono seis lados?	1
+S	¿Es el corazón un músculo?	1
+S	¿Es el Everest la montaña más alta del mundo sobre el nivel del mar?	1
+S	¿Está la Torre Eiffel en Londres?	0
+S	¿Son los murciélagos mamíferos?	1
+S	¿Tiene el esqueleto de una persona adulta unos 206 huesos?	1
+S	¿Es el Pacífico el océano más grande del mundo?	1
+S	¿Es el delfín un pez?	0
+S	¿Es Canberra la capital de Australia?	1
+S	¿Es Sídney la capital de Australia?	0
+S	¿Es H2O la fórmula química del agua?	1
+S	¿Tiene una semana ocho días?	0
+S	¿Está Sevilla en Andalucía?	1
+S	¿Está Bilbao en Galicia?	0
+S	¿Es el euro la moneda de España?	1
+S	¿Están las islas Canarias en el océano Atlántico?	1
+S	¿Están las islas Baleares en el océano Atlántico?	0
+S	¿Es el Sol una estrella?	1
+S	¿Es Marte conocido como el planeta rojo?	1
+S	¿Gira la Tierra alrededor de la Luna?	0
+S	¿Es el español el idioma oficial de Brasil?	0
+S	¿Pone huevos el ornitorrinco?	1
+S	¿Es la jirafa el animal terrestre más alto?	1
+S	¿Es el guepardo el animal terrestre más rápido?	1
+S	¿Es la tortuga un mamífero?	0
+S	¿Tiene un triángulo cuatro lados?	0
+S	¿Es el 7 un número primo?	1
+S	¿Es el 9 un número primo?	0
+S	¿Tiene una hora 60 minutos?	1
+S	¿Tiene un siglo mil años?	0
+S	¿Llegó Colón a América en 1492?	1
+S	¿Declaró la UNESCO el flamenco Patrimonio Cultural Inmaterial de la Humanidad?	1
+S	¿Es la paella un plato típico de Valencia?	1
+S	¿Es el gazpacho una sopa que se toma caliente?	0
+S	¿Está la Alhambra en Granada?	1
+S	¿Está la Sagrada Familia en Madrid?	0
+S	¿Es Gaudí el arquitecto de la Sagrada Familia?	1
+S	¿Pasa el río Guadalquivir por Sevilla?	1
+S	¿Pasa el río Tajo por Toledo?	1
+S	¿Tiene costa la Comunidad de Madrid?	0
+S	¿Es el mercurio un metal líquido a temperatura ambiente?	1
+S	¿Está formado el diamante por carbono?	1
+S	¿Necesitan las plantas luz para hacer la fotosíntesis?	1
+S	¿Es el oxígeno el gas más abundante del aire?	0
+S	¿Es la Antártida el continente más frío?	1
+S	¿Viven osos polares en la Antártida?	0
+S	¿Tiene un pulpo tres corazones?	1
+S	¿Es la abeja un insecto?	1
+S	¿Es la araña un insecto?	0
+S	¿Tiene el violín cuatro cuerdas?	1
+S	¿Tiene la guitarra española seis cuerdas?	1
+S	¿Es el piano un instrumento de viento?	0
+S	¿Compuso Beethoven la «Novena sinfonía»?	1
+S	¿Nació Mozart en España?	0
+S	¿Juega un equipo de fútbol con once jugadores en el campo?	1
+S	¿Tiene un equipo de baloncesto cinco jugadores en la pista?	1
+S	¿Fue Barcelona la sede de los Juegos Olímpicos de 1992?	1
+S	¿Ganó España el Mundial de fútbol de 2010?	1
+S	¿Es el Mont Blanc más alto que el Teide?	1
+S	¿Está el río Nilo en África?	1
+S	¿Está el río Amazonas en Asia?	0
+S	¿Es Tokio la capital de Japón?	1
+S	¿Es Nueva York la capital de Estados Unidos?	0
+S	¿Es Ottawa la capital de Canadá?	1
+S	¿Es Roma la capital de Italia?	1
+S	¿Es Berlín la capital de Austria?	0
+S	¿Es Brasil el país más grande de América del Sur?	1
+S	¿Está Marruecos en Europa?	0
+S	¿Tiene España frontera con Francia?	1
+S	¿Tiene España frontera con Italia?	0
+S	¿Tiene la bandera de Japón un círculo rojo?	1
+S	¿Es el kilogramo una unidad de longitud?	0
+S	¿Tiene un metro 100 centímetros?	1
+S	¿Es el cero un número par?	1
+S	¿Son doce las unidades de una docena?	1
+S	¿Se hace el queso con leche?	1
+S	¿Se elabora el chocolate a partir del cacao?	1
+S	¿Es la patata originaria de América?	1
+S	¿Es Plutón considerado hoy un planeta enano?	1
+S	¿Es Venus el planeta más cercano al Sol?	0
+S	¿Tarda la luz del Sol unos ocho minutos en llegar a la Tierra?	1
+S	¿Fue Neil Armstrong la primera persona en pisar la Luna?	1
+S	¿Inventó Thomas Edison el teléfono?	0
+S	¿Escribió Lope de Vega «Don Quijote de la Mancha»?	0
+S	¿Escribió Federico García Lorca «Bodas de sangre»?	1
+S	¿Se llama Sancho Panza el escudero de don Quijote?	1
+S	¿Se llama Rocinante el caballo de don Quijote?	1
+S	¿Tiene una mariposa cuatro alas?	1
+S	¿Son mamíferos los tiburones?	0
+S	¿Tiene el dromedario dos jorobas?	0
+S	¿Es el Sena el río que pasa por París?	1
+S	¿Es el Támesis el río que pasa por Roma?	0
+S	¿Es el rubí una piedra preciosa de color verde?	0
+S	¿Tiene un cubo seis caras?	1
+S	¿Tiene un octógono diez lados?	0
+S	¿Es la sandía una fruta con mucha agua?	1
+S	¿Es el león un animal herbívoro?	0
+S	¿Es Barcelona la capital de España?	0
+S	¿Tiene la Luna luz propia?	0
+S	¿Es la sal un metal?	0
+S	¿Es Saturno el planeta más cercano a la Tierra?	0
+S	¿Se congela el agua a 10 grados sobre cero?	0
+S	¿Tiene un cuadrado cinco lados?	0
+S	¿Es el 15 un número primo?	0
+S	¿Es el caballo un reptil?	0
+S	¿Es la cebolla una fruta?	0
+S	¿Es el Cantábrico el mar que baña Málaga?	0
+S	¿Está Valencia en Castilla y León?	0
+S	¿Está Santiago de Compostela en Asturias?	0
+S	¿Es Dublín la capital de Escocia?	0
+S	¿Es Buenos Aires la capital de Chile?	0
+S	¿Es el ruso el idioma oficial de Argentina?	0
+S	¿Tiene un año 13 meses?	0
+S	¿Tiene febrero 31 días?	0
+S	¿Es la cobra un mamífero?	0
+S	¿Es la trompeta un instrumento de cuerda?	0
+S	¿Pintó Goya «La Gioconda»?	0
+S	¿Es Neptuno el planeta más cercano al Sol?	0
+S	¿Es el bronce un elemento químico?	0
+S	¿Es el hielo más pesado que el mismo volumen de agua líquida?	0
+S	¿Es el koala un oso?	0
+S	¿Tiene un insecto ocho patas?	0
+S	¿Se juega el balonmano con los pies?	0
+S	¿Es el sushi un plato típico de México?	0
+S	¿Nació Picasso en Francia?	0
+S	¿Es Mallorca la isla más grande de Canarias?	0
+S	¿Es más grande la Luna que la Tierra?	0
+A	PERSONAJE	CAPERUCITA	Sale en un cuento	Lleva una capa	Va a casa de su abuela	Lleva una cesta	Se encuentra con un lobo
+A	LUGAR	PARÍS	Es una capital europea	La atraviesa el río Sena	Allí está el museo del Louvre	Tiene un Arco del Triunfo muy famoso	Su torre más famosa es de hierro
+A	ANIMAL	JIRAFA	Vive en África	Es herbívora	Tiene manchas	Su lengua es muy larga	Tiene el cuello larguísimo
+A	OBJETO	PARAGUAS	Se abre y se cierra	Tiene varillas	Puede ser plegable	Se usa en días grises	Te protege de la lluvia
+A	COMIDA	PAELLA	Es un plato español	Se cocina en un recipiente ancho	Lleva azafrán	Es típica de Valencia	Su ingrediente principal es el arroz
+A	PERSONAJE	QUIJOTE	Es protagonista de una novela	Es de La Mancha	Su caballo se llama Rocinante	Confunde molinos con gigantes	Su escudero es Sancho Panza
+A	LUGAR	SAHARA	Es enorme	Está en África	Hay dunas	Casi nunca llueve	Es el desierto cálido más grande del mundo
+A	ANIMAL	PINGÜINO	Es un ave	No puede volar	Nada muy bien	Muchos viven en la Antártida	Parece que va de esmoquin
+A	OBJETO	RELOJ	Puede ser de pulsera	Tiene manecillas o pantalla	Algunos hacen tictac	Hay uno famoso en la Puerta del Sol	Sirve para saber la hora
+A	DEPORTE	TENIS	Se juega con raqueta	Hay torneos de Grand Slam	Se puede jugar en tierra batida	Los puntos se cuentan 15, 30, 40	Rafa Nadal es una leyenda de este deporte
+A	PERSONAJE	PAPÁ NOEL	Viste de rojo	Tiene barba blanca	Vive en el Polo Norte	Viaja en un trineo con renos	Reparte regalos en Nochebuena
+A	LUGAR	VENECIA	Está en Italia	Tiene un carnaval con máscaras	Hay góndolas	Tiene muchísimos canales	Su plaza más famosa es la de San Marcos
+A	ANIMAL	CAMALEÓN	Es un reptil	Mueve los ojos por separado	Atrapa insectos con la lengua	Vive en los árboles	Cambia de color
+A	COMIDA	CHURROS	Se fríen	Se hacen con masa de harina	Tienen forma alargada	Se toman en el desayuno o la merienda	Se mojan en chocolate
+A	PROFESIÓN	BOMBERO	Trabaja por turnos	Usa casco	Conduce un camión rojo	Usa mangueras	Apaga incendios
+A	LUGAR	LUNA	No es un país	Se ve desde la Tierra	Tiene cráteres	Neil Armstrong caminó por ella	Puede estar llena, nueva o creciente
+A	PERSONAJE	PINOCHO	Es de madera	Su padre es carpintero	Le aconseja un grillo	Quiere ser un niño de verdad	Le crece la nariz al mentir
+A	OBJETO	BRÚJULA	Es pequeña	La usan los exploradores	Tiene una aguja	Funciona con el magnetismo	Siempre señala el norte
+A	ANIMAL	CANGURO	Es un mamífero	Vive en Australia	Tiene una cola muy fuerte	Se desplaza dando saltos	Lleva a su cría en una bolsa
+A	LUGAR	EGIPTO	Es un país	Está en África	Lo atraviesa el Nilo	Su capital es El Cairo	Tiene pirámides famosísimas
+A	COMIDA	TORTILLA	Es un plato muy español	Se hace en sartén	Hay debate sobre si lleva cebolla	Lleva huevo	Lleva patatas
+A	PERSONAJE	COLÓN	Fue navegante	Hizo cuatro viajes	Sus barcos fueron la Pinta, la Niña y la Santa María	Le apoyaron los Reyes Católicos	Llegó a América en 1492
+A	DEPORTE	BALONCESTO	Se suele jugar en pista cubierta	Cada equipo tiene cinco jugadores en pista	Hay tiros de tres puntos	Se bota el balón	Hay que encestar en una canasta
+A	OBJETO	GAFAS	Pueden ser de sol	Tienen patillas	Tienen montura	Se apoyan en la nariz	Ayudan a ver mejor
+A	ANIMAL	MURCIÉLAGO	Es un mamífero	Es nocturno	Se orienta con ecos	Duerme boca abajo	Es el único mamífero que vuela de verdad
+A	LUGAR	SEVILLA	Es una ciudad española	La atraviesa el Guadalquivir	Allí está la Giralda	Su Feria de Abril es famosa	Es la capital de Andalucía
+A	PERSONAJE	BLANCANIEVES	Sale en un cuento	Su madrastra es malvada	Vive con siete enanitos	Muerde una manzana envenenada	Su piel es blanca como la nieve
+A	PROFESIÓN	ASTRONAUTA	Necesita mucho entrenamiento	Lleva un traje especial	Trabaja sin gravedad	Puede vivir en una estación espacial	Viaja al espacio
+A	OBJETO	GUITARRA	Tiene cuerdas	Puede ser eléctrica o española	Tiene trastes	Se toca con los dedos o con púa	Es el instrumento típico del flamenco
+A	COMIDA	GAZPACHO	Es una sopa	Se toma fría	Es típica de Andalucía	Lleva pepino y pimiento	Su ingrediente principal es el tomate
+A	LUGAR	EVEREST	Está en Asia	Está en el Himalaya	Hace muchísimo frío	Se sube con botellas de oxígeno	Es la montaña más alta del mundo
+A	ANIMAL	ELEFANTE	Vive en África o en Asia	Es herbívoro	Tiene unas orejas enormes	Tiene colmillos de marfil	Tiene trompa
+L	Refrán	A quien madruga, Dios le ayuda
+L	Refrán	Más vale tarde que nunca
+L	Refrán	No hay mal que por bien no venga
+L	Refrán	Perro ladrador, poco mordedor
+L	Refrán	En casa de herrero, cuchillo de palo
+L	Refrán	Ojos que no ven, corazón que no siente
+L	Refrán	A caballo regalado no le mires el diente
+L	Refrán	Más vale pájaro en mano que ciento volando
+L	Refrán	Dime con quién andas y te diré quién eres
+L	Refrán	Camarón que se duerme se lo lleva la corriente
+L	Refrán	El que la sigue la consigue
+L	Refrán	No por mucho madrugar amanece más temprano
+L	Refrán	Quien mucho abarca poco aprieta
+L	Refrán	Cría cuervos y te sacarán los ojos
+L	Refrán	A falta de pan, buenas son tortas
+L	Refrán	Al mal tiempo, buena cara
+L	Refrán	Agua que no has de beber, déjala correr
+L	Refrán	De tal palo, tal astilla
+L	Refrán	Donde fueres, haz lo que vieres
+L	Refrán	Zapatero, a tus zapatos
+L	Refrán	Hablando del rey de Roma, por la puerta asoma
+L	Refrán	Quien ríe el último ríe mejor
+L	Refrán	Cada oveja con su pareja
+L	Refrán	Las apariencias engañan
+L	Refrán	Ande yo caliente, ríase la gente
+L	Frase hecha	Estar en las nubes
+L	Frase hecha	Tirar la casa por la ventana
+L	Frase hecha	Ponerse las pilas
+L	Frase hecha	Costar un ojo de la cara
+L	Frase hecha	Ser pan comido
+L	Frase hecha	Meter la pata
+L	Frase hecha	Tomar el pelo
+L	Frase hecha	Dar gato por liebre
+L	Frase hecha	Estar como una cabra
+L	Frase hecha	Echar una mano
+L	Frase hecha	Buscarle tres pies al gato
+L	Frase hecha	Hacer la vista gorda
+L	Frase hecha	Irse por las ramas
+L	Frase hecha	Ser uña y carne
+L	Frase hecha	Pedir peras al olmo
+L	Película	El rey león
+L	Película	Regreso al futuro
+L	Película	Lo que el viento se llevó
+L	Película	La guerra de las galaxias
+L	Película	Buscando a Nemo
+L	Película	El mago de Oz
+L	Película	Solo en casa
+L	Película	Ocho apellidos vascos
+L	Película	Mujeres al borde de un ataque de nervios
+L	Película	El laberinto del fauno
+L	Película	La bella y la bestia
+L	Película	Parque Jurásico
+L	Canción	Cumpleaños feliz
+L	Canción	Asturias, patria querida
+L	Canción	Un rayo de sol
+L	Canción	Clavelitos
+L	Canción	La bamba
+L	Libro	Don Quijote de la Mancha
+L	Libro	Cien años de soledad
+L	Libro	Platero y yo
+L	Libro	La vuelta al mundo en ochenta días
+L	Libro	El principito
+V	Construcciones laberínticas en las que puedes perderte y quedarte solo.	SOLEDAD	DÉDALOS
+V	Capital de Italia, la Ciudad Eterna.	AMOR	ROMA
+V	Asunto que investiga un detective.	COSA	CASO
+V	Pata de cerdo curada que se corta en lonchas finas.	MONJA	JAMÓN
+V	Persona obstinada que no da su brazo a torcer.	RECTO	TERCO
+V	Gran masa de agua dulce rodeada de tierra.	ALGO	LAGO
+V	Billete de lotería que se compra por Navidad.	MÉDICO	DÉCIMO
+V	Animal marino que forma arrecifes de colores.	CALOR	CORAL
+V	Prenda negra que visten jueces y abogados en los juicios.	GATO	TOGA
+V	Cuerpo redondo con el que se juega al billar.	LOBA	BOLA
+V	Tren que circula bajo tierra en las grandes ciudades.	TEMOR	METRO
+V	Atreverse a hacer algo.	ROSA	OSAR
+V	Que no vale nada, sin efecto.	LUNA	NULA
+V	Hoja delgada de metal o dibujo impreso en un libro.	ANIMAL	LÁMINA
+V	Conjunto de creencias de una persona o de un grupo.	CERDO	CREDO
+V	Tiene la corazonada de que algo va a ocurrir.	SERPIENTE	PRESIENTE
+V	Darse cuenta de algo.	RATÓN	NOTAR
+V	Conjunto de palabras con sentido completo.	FRESA	FRASE
+V	Hablar unas personas con otras.	CONSERVAR	CONVERSAR
+V	Que no tiene principio ni fin.	ENTERO	ETERNO
+V	Voz muy fuerte y levantada.	TRIGO	GRITO
+V	Que pesa mucho; también, persona que cansa.	ESPADA	PESADA
+V	Tener un precio determinado.	CASTOR	COSTAR
+V	Salir al mundo; empezar a vivir.	CARNE	NACER
+V	Pierna de un animal o de una mesa.	TAPA	PATA
+V	Zona de un país con características propias.	ORIGEN	REGIÓN
+V	Reacción del cuerpo al polen o al polvo.	ALEGRÍA	ALERGIA
+V	Momento en que una madre da a luz.	TRAPO	PARTO
+V	Asiento desde el que reina un rey.	TORNO	TRONO
+V	Pez marino de carne muy apreciada.	REMO	MERO
+V	Armas que lanzan flechas.	ROSCA	ARCOS
+V	Movimiento de cada pie al andar.	SOPA	PASO
+V	Parte del zapato que eleva el talón.	CANTO	TACÓN
+V	Conocer algo o tener noticia de ello.	BESAR	SABER
+V	Grupo de estudiantes que cantan y tocan con capa.	ATÚN	TUNA
+V	Granitos en la piel típicos de la adolescencia.	CENA	ACNÉ
+V	Hembra del mono; también, bonita y graciosa.	MANO	MONA
+V	Piedra muy dura y grande.	ARCO	ROCA
+V	Altura pequeña y redondeada del terreno.	MALO	LOMA
+V	Vehículo con alas que vuela por el cielo.	NOVIA	AVIÓN
+V	Cuerpo celeste, como una estrella o un planeta.	OSTRA	ASTRO
+V	Usa la cabeza para razonar.	ESPINA	PIENSA
+V	Parte del árbol que sale del tronco.	AMAR	RAMA
+V	Hombre que tiene hijos.	PARED	PADRE
+V	Poder entrar una cosa dentro de otra.	CEBRA	CABER
+V	Engaño para sacar dinero a alguien.	MITO	TIMO
+V	Conducto por el que la sangre vuelve al corazón.	NAVE	VENA
+V	Tierra natal a la que uno se siente ligado.	PIRATA	PATRIA
+V	Serie de petardos que estallan uno tras otro en las fiestas.	CARTA	TRACA
+V	Vestido típico de las mujeres de la India.	RISA	SARI

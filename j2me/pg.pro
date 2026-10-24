@@ -1,0 +1,10 @@
+-injars raw.jar
+-outjars pre.jar
+-libraryjars lib/cldcapi11-2.0.4.jar
+-libraryjars lib/midpapi20-2.0.4.jar
+-microedition
+-dontobfuscate
+-dontoptimize
+-dontshrink
+-dontnote
+-dontwarn
